@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.myweatherapp.MainActivity">
+
+    <item android:id="@+id/action_send"
+        android:title="短信发送"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
